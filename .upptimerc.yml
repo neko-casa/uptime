@@ -25,7 +25,7 @@ status-website:
   introMessage: bidap... bidap... bidap...
   navbar:
     - title: Status
-      href: /uptime/
+      href: /uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
