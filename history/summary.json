@@ -1,7 +1,7 @@
 [
   {
     "name": "mitsuha.ren",
-    "url": "https://mitsuha.ren",
+    "url": "https://mitsuha.ren/",
     "icon": "https://icons.duckduckgo.com/ip3/mitsuha.ren.ico",
     "slug": "mitsuha-ren",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 951,
-    "timeWeek": 951,
-    "timeMonth": 951,
-    "timeYear": 951,
+    "time": 1140,
+    "timeDay": 1140,
+    "timeWeek": 1140,
+    "timeMonth": 1140,
+    "timeYear": 1140,
     "dailyMinutesDown": {}
   },
   {
     "name": "mitsuha.ren/blog",
-    "url": "https://mitsuha.ren/blog",
+    "url": "https://mitsuha.ren/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/mitsuha.ren.ico",
     "slug": "mitsuha-ren-blog",
     "status": "up",
@@ -28,16 +28,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
     "name": "zuvia.pro",
-    "url": "https://zuvia.pro",
+    "url": "https://zuvia.pro/",
     "icon": "https://icons.duckduckgo.com/ip3/zuvia.pro.ico",
     "slug": "zuvia-pro",
     "status": "up",
@@ -46,16 +46,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1563,
-    "timeDay": 1563,
-    "timeWeek": 1563,
-    "timeMonth": 1563,
-    "timeYear": 1563,
+    "time": 1674,
+    "timeDay": 1674,
+    "timeWeek": 1674,
+    "timeMonth": 1674,
+    "timeYear": 1674,
     "dailyMinutesDown": {}
   },
   {
     "name": "zuvia.pro/disk",
-    "url": "https://zuvia.pro/disk",
+    "url": "https://zuvia.pro/disk/",
     "icon": "https://icons.duckduckgo.com/ip3/zuvia.pro.ico",
     "slug": "zuvia-pro-disk",
     "status": "up",
@@ -64,16 +64,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1319,
-    "timeDay": 1319,
-    "timeWeek": 1319,
-    "timeMonth": 1319,
-    "timeYear": 1319,
+    "time": 1069,
+    "timeDay": 1069,
+    "timeWeek": 1069,
+    "timeMonth": 1069,
+    "timeYear": 1069,
     "dailyMinutesDown": {}
   },
   {
     "name": "monitoring.neko.casa",
-    "url": "https://monitoring.neko.casa",
+    "url": "https://monitoring.neko.casa/",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.neko.casa.ico",
     "slug": "monitoring-neko-casa",
     "status": "down",
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-18": 23
+      "2023-10-18": 26
     }
   }
 ]
