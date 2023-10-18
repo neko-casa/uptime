@@ -4,28 +4,28 @@ repo: uptime # The name of this repository
 
 sites:
   - name: mitsuha.ren
-    url: https://mitsuha.ren
+    url: https://mitsuha.ren/
   - name: mitsuha.ren/blog
-    url: https://mitsuha.ren/blog
+    url: https://mitsuha.ren/blog/
   - name: zuvia.pro
-    url: https://zuvia.pro
+    url: https://zuvia.pro/
   - name: zuvia.pro/disk
-    url: https://zuvia.pro/disk
+    url: https://zuvia.pro/disk/
   - name: monitoring.neko.casa
-    url: https://monitoring.neko.casa
+    url: https://monitoring.neko.casa/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /uptime
+  baseUrl: /uptime/
   logoUrl: https://mitsuha.ren/favicon
   name: HONAMI
   introTitle: "(nothing to see here >.<"
   introMessage: bidap... bidap... bidap...
   navbar:
     - title: Status
-      href: /uptime
+      href: /uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
