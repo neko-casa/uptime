@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 922,
-    "timeWeek": 922,
-    "timeMonth": 922,
-    "timeYear": 922,
+    "time": 894,
+    "timeDay": 894,
+    "timeWeek": 894,
+    "timeMonth": 894,
+    "timeYear": 894,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuvia.pro.ico",
     "slug": "zuvia-pro",
     "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
-    "time": 1502,
-    "timeDay": 1502,
-    "timeWeek": 1502,
-    "timeMonth": 1502,
-    "timeYear": 1502,
+    "uptime": "98.11%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
+    "time": 1500,
+    "timeDay": 1500,
+    "timeWeek": 1500,
+    "timeMonth": 1500,
+    "timeYear": 1500,
     "dailyMinutesDown": {
       "2023-10-18": 21
     }
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuvia.pro.ico",
     "slug": "zuvia-pro-disk",
     "status": "up",
-    "uptime": "89.25%",
-    "uptimeDay": "89.25%",
-    "uptimeWeek": "89.25%",
-    "uptimeMonth": "89.25%",
-    "uptimeYear": "89.25%",
-    "time": 4065,
-    "timeDay": 4065,
-    "timeWeek": 4065,
-    "timeMonth": 4065,
-    "timeYear": 4065,
+    "uptime": "91.68%",
+    "uptimeDay": "91.68%",
+    "uptimeWeek": "91.68%",
+    "uptimeMonth": "91.68%",
+    "uptimeYear": "91.68%",
+    "time": 3726,
+    "timeDay": 3726,
+    "timeWeek": 3726,
+    "timeMonth": 3726,
+    "timeYear": 3726,
     "dailyMinutesDown": {
       "2023-10-18": 93
     }
@@ -92,7 +92,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-18": 881
+      "2023-10-19": 28,
+      "2023-10-18": 1107
     }
   }
 ]
