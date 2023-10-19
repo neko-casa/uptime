@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuvia.pro.ico",
     "slug": "zuvia-pro",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.88%",
     "uptimeDay": "97.17%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
     "time": 1475,
     "timeDay": 1525,
     "timeWeek": 1475,
@@ -61,19 +61,19 @@
     "url": "https://zuvia.pro/disk/",
     "icon": "https://icons.duckduckgo.com/ip3/zuvia.pro.ico",
     "slug": "zuvia-pro-disk",
-    "status": "up",
-    "uptime": "90.50%",
-    "uptimeDay": "90.32%",
-    "uptimeWeek": "90.50%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "90.50%",
+    "status": "down",
+    "uptime": "92.37%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "92.37%",
+    "uptimeMonth": "92.37%",
+    "uptimeYear": "92.37%",
     "time": 4563,
-    "timeDay": 7980,
+    "timeDay": 9459,
     "timeWeek": 4563,
     "timeMonth": 4563,
     "timeYear": 4563,
     "dailyMinutesDown": {
-      "2023-10-19": 52,
+      "2023-10-19": 53,
       "2023-10-18": 93
     }
   },
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-19": 434,
+      "2023-10-19": 824,
       "2023-10-18": 1107
     }
   }
