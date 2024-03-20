@@ -4,10 +4,10 @@
     "url": "https://mitsuha.ren/",
     "icon": "https://icons.duckduckgo.com/ip3/mitsuha.ren.ico",
     "slug": "mitsuha-ren",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
@@ -15,16 +15,18 @@
     "timeWeek": 910,
     "timeMonth": 808,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 1
+    }
   },
   {
     "name": "mitsuha.ren/blog",
     "url": "https://mitsuha.ren/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/mitsuha.ren.ico",
     "slug": "mitsuha-ren-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 281,
     "timeMonth": 266,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   },
   {
     "name": "zuvia.pro",
@@ -70,18 +74,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuvia.pro.ico",
     "slug": "zuvia-pro-disk",
     "status": "down",
-    "uptime": "11.00%",
+    "uptime": "10.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "11.00%",
+    "uptimeYear": "10.99%",
     "time": 927,
     "timeDay": 231,
     "timeWeek": 218,
     "timeMonth": 215,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2024-03-20": 29,
+      "2024-03-20": 171,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -245,7 +249,7 @@
     "timeMonth": 1218,
     "timeYear": 1956,
     "dailyMinutesDown": {
-      "2024-03-20": 29,
+      "2024-03-20": 171,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
