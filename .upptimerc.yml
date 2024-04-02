@@ -7,10 +7,10 @@ sites:
     url: https://mitsuha.ren/
   - name: mitsuha.ren/blog
     url: https://mitsuha.ren/blog/
-  - name: zuvia.pro
-    url: https://zuvia.pro/
-  - name: zuvia.pro/disk
-    url: https://zuvia.pro/disk/
+  - name: neko.casa
+    url: https://neko.casa/
+  - name: cloud.neko.casa
+    url: https://cloud.neko.casa/
   - name: monitoring.neko.casa
     url: https://monitoring.neko.casa/
 
