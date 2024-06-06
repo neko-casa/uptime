@@ -4,10 +4,10 @@
     "url": "https://mitsuha.ren/",
     "icon": "https://icons.duckduckgo.com/ip3/mitsuha.ren.ico",
     "slug": "mitsuha-ren",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 910,
@@ -16,6 +16,7 @@
     "timeMonth": 953,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2024-06-06": 1,
       "2024-05-29": 21,
       "2024-04-01": 73,
       "2024-03-20": 21
@@ -26,9 +27,9 @@
     "url": "https://mitsuha.ren/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/mitsuha.ren.ico",
     "slug": "mitsuha-ren-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -38,6 +39,7 @@
     "timeMonth": 329,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2024-06-06": 0,
       "2024-05-29": 21,
       "2024-04-01": 73,
       "2024-03-20": 21
@@ -96,7 +98,7 @@
     "timeMonth": 995,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2024-06-06": 31,
+      "2024-06-06": 626,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
