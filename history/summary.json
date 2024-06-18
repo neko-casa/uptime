@@ -66,19 +66,19 @@
     "url": "https://cloud.neko.casa/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.neko.casa.ico",
     "slug": "cloud-neko-casa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1985,
-    "timeDay": 1868,
-    "timeWeek": 1790,
-    "timeMonth": 2005,
-    "timeYear": 1985,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1981,
+    "timeDay": 1769,
+    "timeWeek": 1775,
+    "timeMonth": 1994,
+    "timeYear": 1981,
     "dailyMinutesDown": {
-      "2024-06-18": 0
+      "2024-06-18": 26
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 1052,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2024-06-18": 179,
+      "2024-06-18": 205,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
